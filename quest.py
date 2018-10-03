@@ -23,3 +23,13 @@ def lngof(listname):
 ln= eval(input("Enter string or list"))
 ling = lngof("tree")
 print(ling)
+
+
+def lngof(listname):
+    for i in range(0:):
+        l+=l
+        print l
+
+ln= eval(input("Enter string or list"))
+ling = lngof("tree")
+print(ling)
